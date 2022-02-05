@@ -1,0 +1,4 @@
+prettytable
+matplotlib
+pyttsx3
+pickle
